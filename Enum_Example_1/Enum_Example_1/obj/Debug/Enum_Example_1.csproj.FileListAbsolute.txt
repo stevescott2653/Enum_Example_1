@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Enum_Example_1\Enum_Example_1\bin\Debug\Enum_Example_1.exe.config
+D:\DEV\C#\Practice\Enum_Example_1\Enum_Example_1\bin\Debug\Enum_Example_1.exe
+D:\DEV\C#\Practice\Enum_Example_1\Enum_Example_1\bin\Debug\Enum_Example_1.pdb
+D:\DEV\C#\Practice\Enum_Example_1\Enum_Example_1\obj\Debug\Enum_Example_1.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Enum_Example_1\Enum_Example_1\obj\Debug\Enum_Example_1.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Enum_Example_1\Enum_Example_1\obj\Debug\Enum_Example_1.exe
+D:\DEV\C#\Practice\Enum_Example_1\Enum_Example_1\obj\Debug\Enum_Example_1.pdb
